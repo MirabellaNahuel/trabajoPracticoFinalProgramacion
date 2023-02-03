@@ -1,0 +1,155 @@
+# depslib dependency file v1.0
+1655844656 source:c:\users\nico\desktop\utn programación\laboratorio\codeblocks\trabajo practico final\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"CLIENTES.h"
+	"CONSUMOS.h"
+	"MENU.h"
+
+1655740921 c:\users\nico\desktop\utn programación\laboratorio\codeblocks\trabajo practico final\clientes.h
+
+1668979261 c:\users\nico\desktop\utn programación\laboratorio\codeblocks\trabajo practico final\consumos.h
+
+1669072235 source:c:\users\nico\desktop\utn programación\laboratorio\codeblocks\trabajo practico final\consumos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"CLIENTES.h"
+	"CONSUMOS.h"
+	"MENU.h"
+
+1669073290 source:c:\users\nico\desktop\utn programación\laboratorio\codeblocks\trabajo practico final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	"CLIENTES.h"
+	"CONSUMOS.h"
+	"MENU.h"
+	"gotoxy.h"
+	"windows.h"
+	"ARBOLCLIENTES.h"
+
+1654641544 source:c:\users\nico\desktop\utn programación\laboratorio\codeblocks\trabajo practico final\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1669071848 c:\users\nico\desktop\utn programación\laboratorio\codeblocks\trabajo practico final\menu.h
+	"ARBOLCLIENTES.h"
+
+1654641544 c:\users\nico\desktop\utn programación\laboratorio\codeblocks\trabajo practico final\gotoxy.h
+
+1669073335 source:c:\users\nico\desktop\utn programación\laboratorio\codeblocks\trabajo practico final\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	"MENU.h"
+	"ARBOLCLIENTES.h"
+	"gotoxy.h"
+	"windows.h"
+
+1669070426 source:c:\users\nico\desktop\utn programación\laboratorio\codeblocks\trabajo practico final\arbolclientes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"ARBOLCLIENTES.h"
+
+1669070457 c:\users\nico\desktop\utn programación\laboratorio\codeblocks\trabajo practico final\arbolclientes.h
+	"CLIENTES.h"
+	"LISTACONSUMOS.h"
+
+1669072050 c:\users\nico\desktop\utn programación\laboratorio\codeblocks\trabajo practico final\listaconsumos.h
+	"CONSUMOS.h"
+
+1669072210 source:c:\users\nico\desktop\utn programación\laboratorio\codeblocks\trabajo practico final\listaconsumos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"LISTACONSUMOS.h"
+
+1655844656 source:c:\users\daphne\desktop\trabajo practico final\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"CLIENTES.h"
+	"CONSUMOS.h"
+	"MENU.h"
+
+1655740921 c:\users\daphne\desktop\trabajo practico final\clientes.h
+
+1668979261 c:\users\daphne\desktop\trabajo practico final\consumos.h
+
+1669071848 c:\users\daphne\desktop\trabajo practico final\menu.h
+	"ARBOLCLIENTES.h"
+
+1669070457 c:\users\daphne\desktop\trabajo practico final\arbolclientes.h
+	"CLIENTES.h"
+	"LISTACONSUMOS.h"
+
+1669072050 c:\users\daphne\desktop\trabajo practico final\listaconsumos.h
+	"CONSUMOS.h"
+
+1654641544 source:c:\users\daphne\desktop\trabajo practico final\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1669073290 source:c:\users\daphne\desktop\trabajo practico final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	"CLIENTES.h"
+	"CONSUMOS.h"
+	"MENU.h"
+	"gotoxy.h"
+	"windows.h"
+	"ARBOLCLIENTES.h"
+
+1654641544 c:\users\daphne\desktop\trabajo practico final\gotoxy.h
+
+1669073335 source:c:\users\daphne\desktop\trabajo practico final\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	"MENU.h"
+	"ARBOLCLIENTES.h"
+	"gotoxy.h"
+	"windows.h"
+
+1669145221 source:c:\users\daphne\desktop\trabajo practico final\arbolclientes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"ARBOLCLIENTES.h"
+
+1669145502 source:c:\users\daphne\desktop\trabajo practico final\consumos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"CLIENTES.h"
+	"CONSUMOS.h"
+	"MENU.h"
+
+1669146248 source:c:\users\daphne\desktop\trabajo practico final\listaconsumos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"LISTACONSUMOS.h"
+
